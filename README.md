@@ -29,9 +29,42 @@ EtherOS ISO
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 <img width="1811" height="634" alt="2026-04-25_14-12_1" src="https://github.com/user-attachments/assets/69f09362-2837-43ac-b247-a92b72fc9330" />
 <
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
