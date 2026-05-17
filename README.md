@@ -3,7 +3,7 @@ EtherOS ISO
  thes  are just some exapels 
  
  <img width="1828" height="819" alt="2026-04-25_14-11" src="https://github.com/user-attachments/assets/6bb1a35e-01bd-4529-93cb-cf1228b1b225" />
-
+>
 
 
 
