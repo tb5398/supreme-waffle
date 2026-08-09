@@ -142,10 +142,13 @@ EtherOS ISO
 
 
 
- a song that  is the vibe of the os <iframe width="560" height="315" src="https://www.youtube.com/embed/muupHD0dUSM?si=QSx_Yg3WC7_iltVD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
- 
+ a song for EtherOS  <iframe
+  width="560"
+  height="315"
+  src="https://youtu.be/muupHD0dUSM?si=vuwxvwKtkXphrRzf"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
- 
-
-
- 
