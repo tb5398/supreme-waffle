@@ -105,6 +105,46 @@ EtherOS ISO
 
  <img width="1814" height="462" alt="2026-04-25_14-12_2" src="https://github.com/user-attachments/assets/d8718adf-3786-4775-a2f3-7b86a056c2c5" />
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ a song that  is the vibe of the os <iframe width="560" height="315" src="https://www.youtube.com/embed/muupHD0dUSM?si=QSx_Yg3WC7_iltVD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
+
  
 
 
